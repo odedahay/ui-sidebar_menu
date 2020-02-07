@@ -1,3 +1,3 @@
-# Side bar menu
+# UI: Sidebar Menu Component
 ## css and javascript
 ### :D
